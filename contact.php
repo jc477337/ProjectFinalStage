@@ -114,6 +114,7 @@ Although you can use them, for a more unique website, replace these images with 
 	</div>
 	
 	</div>
+<h2>Send e-mail to us:</h2>
 	<form action="mailto:suncentom@hotmail.com” method="post" enctype="text/plain">
 Name:<br>
 <input type="text" name="name"><br>
